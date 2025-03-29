@@ -3,6 +3,10 @@
 ## Project Overview
 This project implements machine learning models to detect fraudulent transactions in mobile money transfers. It uses GPU-accelerated implementations for better performance and handles real-world transaction data with features like amount, transaction type, and account balances.
 
+## Dataset
+The dataset used in this project is based on the research presented in:
+[MoMTSim: A Multi-Agent-Based Simulation Platform Calibrated for Mobile Money Transactions](https://ieeexplore.ieee.org/document/10623453)
+
 ## Features
 - GPU-accelerated machine learning models using RAPIDS cuML
 - Comprehensive exploratory data analysis (EDA)
