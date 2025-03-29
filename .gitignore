@@ -1,0 +1,16 @@
+# Ignore model files due to size limitations
+*.pkl
+Models/*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment
+.env
+venv/
+env/
